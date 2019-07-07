@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fdb8a89-1df9-4527-bddb-d68e298f3fe1" name="Default Changelist" comment="" />
+    <list default="true" id="1fdb8a89-1df9-4527-bddb-d68e298f3fe1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_transformation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_transformation.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +23,11 @@
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baseline_model_mfcc.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -32,9 +40,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>tids</find>
+      <find>valid</find>
+      <find>Y</find>
     </findStrings>
     <replaceStrings>
       <replace>track_ids</replace>
+      <replace>train</replace>
+      <replace>y</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -45,6 +57,7 @@
       <list>
         <option value="$PROJECT_DIR$/data_loader.ipynb" />
         <option value="$PROJECT_DIR$/data_transformation.ipynb" />
+        <option value="$PROJECT_DIR$/baseline_model_mfcc.ipynb" />
       </list>
     </option>
   </component>
@@ -79,7 +92,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,18 +128,30 @@
       <workItem from="1562440655884" duration="266000" />
       <workItem from="1562441086318" duration="3396000" />
       <workItem from="1562445682708" duration="6769000" />
-      <workItem from="1562452834047" duration="1572000" />
+      <workItem from="1562452834047" duration="2153000" />
+      <workItem from="1562491476567" duration="100000" />
+      <workItem from="1562491590596" duration="95000" />
+      <workItem from="1562491857547" duration="79000" />
+      <workItem from="1562491947384" duration="377000" />
+      <workItem from="1562492451005" duration="2390000" />
+      <workItem from="1562495293958" duration="280000" />
+      <workItem from="1562495584673" duration="2406000" />
+      <workItem from="1562498525915" duration="832000" />
+      <workItem from="1562499848502" duration="1224000" />
+      <workItem from="1562501520104" duration="1138000" />
+      <workItem from="1562502836310" duration="1041000" />
+      <workItem from="1562504112723" duration="197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24513000" />
+    <option name="totallyTimeSpent" value="35253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-143" y="-1057" width="1920" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12460064" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1373802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -140,7 +165,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32953367" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32953367" />
       <window_info active="true" anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.32953367" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -155,6 +180,9 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data_loader.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baseline_model_mfcc.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data_transformation.ipynb">
