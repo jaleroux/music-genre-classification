@@ -9,6 +9,7 @@ Analysis - illustrating different methods for music genre/mood classification. A
 App - hosted final model to serve predictions of submitted track.
 
 References: 
+
 [1] Y Han and K Lee, 2015. "Acoustic scene classification using convolutional neural network and multiple-width frequency-delta data augmentation", ArXiv 1607.02383.
 
 [2] Keunwoo Choi, George Fazekas, Mark Sandler, Kyunghyun Cho, 2016. Convolutional Recurrent Neural Networks for Music Classification, ArXiv 1609.04243.
