@@ -10,3 +10,4 @@ ipython
 jupyter
 librosa
 BeautifulSoup4
+seaborn
