@@ -6,7 +6,7 @@ Analysis - illustrating different methods for music genre/mood classification. A
 3) Convolutional Recurrent Neural Network (Serial) (Choi et al, 2016)
 4) Convolutional Neural Network <-> Recurrent Neural Network (Parallel) (Feng et al, 2017)
 
-App - hosted final model to serve predictions of submitted track.
+App - TODO - hosted final model to serve predictions of submitted track.
 
 References: 
 
